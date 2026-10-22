@@ -10,6 +10,7 @@
 **WeatherWise Analytics** is a comprehensive, production-grade meteorological intelligence and machine learning platform engineered from the ground up. It centralizes 73+ years of historical Delhi daily weather observations (1951–2024, 26,803 records) into a high-performance MongoDB NoSQL document store, provides an interactive business intelligence web interface using Streamlit, applies strictly leak-free chronological machine learning for next-day precipitation classification, predicts next-day maximum temperatures via regression, and translates model probabilities into actionable everyday weather guidance.
 
 ---
+**Data Set** : https://data.opencity.in/dataset/daily-temperature-70-years-data-for-major-indian-cities/resource/0c853240-47a3-428c-bb5e-933e74245e08
 
 ## Table of Contents
 
